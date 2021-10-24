@@ -33,7 +33,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-heading1-size: 3.77em;
   --r-heading2-size: 1.60em;
   --r-heading3-size: 1.55em;
-  --r-heading4-size: 0.8em;
+  --r-heading4-size: 1em;
   --r-code-font: monospace;
   --r-link-color: #00008B;
   --r-link-color-dark: #00003f;
@@ -306,7 +306,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   background-color:#242424;
   border-radius: 0.5rem;
   color:#ffffff;
-  font-size:var(--r-heading3-size);
+  font-size:var(--r-heading4-size);
   font-weight: 600;
   padding: 0.25rem 2rem;
 }

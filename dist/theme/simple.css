@@ -84,7 +84,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   margin: var(--r-heading-margin);
   color: var(--r-heading-color);
   font-family: var(--r-main-font);
-  font-weight: 500;
+  font-weight: 600;
   line-height: var(--r-heading-line-height);
   letter-spacing: var(--r-heading-letter-spacing);
   text-transform: var(--r-heading-text-transform);
